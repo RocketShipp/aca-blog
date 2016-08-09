@@ -7,4 +7,4 @@ categories: coding
 
 ## This is a new post!
 
-(http://i.imgur.com/hw8l6GH.gifv "Alt text example yo")
+!(http://i.imgur.com/hw8l6GH.gifv "Alt text example yo")
